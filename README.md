@@ -7,13 +7,13 @@ This repository is a collection of my small projects and exercises to learn and 
 ### Introduction to Vite React
 
 **React facts static page :**
-![Reactfacts]("./vite-react/public/preview.png")
+![Reactfacts](./vite-react/public/preview.png)
 
 ---
 
 ### React components
 
 **Airbnb experience page :**
-![Airbnb]("./airbnb-experience-page/public/preview.png")
+![Airbnb](./airbnb-experience-page/public/preview.png)
 
 ---
